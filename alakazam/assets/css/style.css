@@ -1,0 +1,12 @@
+.jumbotron{
+
+	background-image:url(/Users/ross/psychic-game/assets/images/psychic-backround.jpg);
+	background-color:purple;
+}
+
+.text{
+
+	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: white;
+}
+
